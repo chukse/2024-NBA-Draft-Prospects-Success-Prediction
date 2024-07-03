@@ -37,7 +37,7 @@ The following datasets are used in this project:
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/nba-draft-prospects.git
+git clone https://github.com/chukse/nba-draft-prospects.git
 cd nba-draft-prospects
 pip install -r requirements.txt
  
