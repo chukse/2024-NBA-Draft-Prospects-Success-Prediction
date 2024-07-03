@@ -1,0 +1,6 @@
+historical_data = pd.read_csv('C:/Users/Chuks/Documents/nba draft/draft-data-20-years.csv')
+prospects_data = pd.read_csv('C:/Users/Chuks/Documents/nba draft/nba_draft_prospects.csv')
+
+
+targets = ['WS/48','PPG', 'VORP']
+potential_targets = ['WS', 'VORP', 'PER', 'BPM']
